@@ -1,0 +1,9 @@
+.vscode/
+.DS_Store
+.dart_tool/
+.idea/
+.iml
+.packages
+pubspec.lock
+node_modules/
+yarn.lock

@@ -1,0 +1,12 @@
+name: dart_logger
+description: Configurable, Fast and Small logging library for dart and flutter
+version: 0.0.1
+homepage: https://github.com/muj-programmer/dart_logger
+issue_tracker: https://github.com/muj-programmer/dart_logger/issues
+
+environment:
+  sdk: ">=2.0.0 <3.0.0"
+
+dependencies:
+
+dev_dependencies:
