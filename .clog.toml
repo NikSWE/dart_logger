@@ -3,3 +3,4 @@ repository = "https://github.com/muj-programmer/dart_logger"
 link-style = "github"
 changelog = "CHANGELOG.md"
 output-format = "markdown"
+from-latest-tag = true
