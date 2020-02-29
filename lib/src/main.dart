@@ -31,7 +31,7 @@ class Logger {
     return int.parse(stackTrace[statement].split(':')[2]);
   }
 
-  static void debug([String message = '']) {
+  static void debug([dynamic message = '']) {
     if (Logger.defaultPrinter == "simple") {
       SimplePrinter.render(Log(
         level: Level.debug,
